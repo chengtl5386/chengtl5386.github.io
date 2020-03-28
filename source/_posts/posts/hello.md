@@ -2,11 +2,9 @@
 title: hello world
 url: hello_world_url
 tags:
-  - tag1
-  - tag1
+  - 技术
 categories:
-  - 分类1
-  - 分类2
+  - 知识学习
 date: 2020-03-28 00:00:00
 ---
 
