@@ -313,7 +313,7 @@ social:
   GitHub: https://github.com/chengtl5386 || github
   E-Mail: mailto:2052214504@qq.com || envelope
   Weibo: https://weibo.com/6122748315 || weibo
-  qq: https://qm.qq.com/cgi-bin/qm/qr?k=JLPvWMqhzHMU2DOQ_w6FxMZb-6Hw3Nyj || qq
+  QQ: https://qm.qq.com/cgi-bin/qm/qr?k=JLPvWMqhzHMU2DOQ_w6FxMZb-6Hw3Nyj || qq
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
@@ -400,7 +400,7 @@ reward_settings:
   # If true, reward will be displayed in every article by default.
   enable: true
   animation: true
-  comment: 坚持原创分享，您的支持将鼓励我继续创作!
+  comment: 只争朝夕，不负韶华。
 
 reward:
   wechatpay: /images/config/wechatpay.jpg
