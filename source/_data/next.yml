@@ -7,11 +7,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: chengtl5386
-subtitle: chengtl5386
-description: chengtl5386
+title: Tianli-Cheng
+subtitle: Rethink of Political science
+description: chengtl5386@gmail.com
 keywords:
-author: "chengtl5386"
+author: "Tianli-Cheng"
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -311,7 +311,7 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://github.com/chengtl5386 || github
-  #E-Mail: mailto:yourname@gmail.com || envelope
+  E-Mail: mailto:2052214504@qq.com || envelope
   #Weibo: https://weibo.com/yourname || weibo
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
