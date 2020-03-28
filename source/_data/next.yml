@@ -8,8 +8,8 @@
 
 # Site
 title: Tianli-Cheng
-subtitle: Rethink of Political science
-description: chengtl5386@gmail.com
+subtitle: Tianli-Cheng
+description: 偏安一隅，不失桑榆。
 keywords:
 author: "Tianli-Cheng"
 language: zh-CN
@@ -231,8 +231,8 @@ creative_commons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
+#scheme: Mist
+scheme: Pisces
 #scheme: Gemini
 
 # Dark Mode
@@ -312,7 +312,7 @@ site_state: true
 social:
   GitHub: https://github.com/chengtl5386 || github
   E-Mail: mailto:2052214504@qq.com || envelope
-  #Weibo: https://weibo.com/yourname || weibo
+  Weibo: https://weibo.com/6122748315 || weibo
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
