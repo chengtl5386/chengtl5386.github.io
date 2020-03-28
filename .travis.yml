@@ -35,6 +35,7 @@ before_install:
   - yarn add hexo-deployer-git
   - yarn add hexo-helper-live2d
   - yarn add theme-next/next-util
+  - yarn add hexo-generator-feed
 
   # 将 GitHub Token 替换到 next.yml 中
   - sed -i "s/REPO_TOKEN/${REPO_TOKEN}/" source/_data/next.yml
