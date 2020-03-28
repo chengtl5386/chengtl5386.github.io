@@ -337,6 +337,7 @@ links_settings:
 
 links:
   Ahaochan: http://blog.ahao.moe
+  Acuario: https://acuario.xyz/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
@@ -413,7 +414,7 @@ reward:
 follow_me:
 #Twitter: https://twitter.com/username || twitter
 #Telegram: https://t.me/channel_name || telegram
-#WeChat: /images/wechat_channel.jpg || wechat
+WeChat: /images/wechat_channel.jpg || wechat
 #RSS: /atom.xml || rss
 
 # Related popular posts
@@ -594,7 +595,7 @@ font:
 # Disable Baidu transformation on mobile devices.
 disable_baidu_transformation: false
 
-# Set a canonical link tag for your Hexo site.
+# Set a canonical tag for your Hexo site.
 # See: https://support.google.com/webmasters/answer/139066
 # Remember to set up your URL in Hexo `_config.yml` (e.g. url: http://yoursite.com)
 canonical: true
